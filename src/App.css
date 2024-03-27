@@ -1,0 +1,31 @@
+.control-section{
+    padding: 30px;
+}
+
+.text-content{
+    font-size: 30px;
+    text-align: center;
+}    
+
+.test-coverage-wrapper{
+    padding: 20px;
+}
+
+.test-coverage-wrapper .title{
+    font-size: 2em;
+    text-align: left;
+}
+
+.test-coverage-wrapper .title small{
+    display: block;
+    font-size: .75em;
+}
+
+.test-coverage-wrapper .icon{
+    font-size: 3em;
+    text-align: right;
+}
+
+.e-panel-content {
+    padding: 10px 0;
+}
